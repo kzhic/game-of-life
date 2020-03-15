@@ -51,9 +51,9 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>2.1.1</version>
                 <configuration>
-                    <manifest>
-                        <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                    </manifest>
+                    <!--<manifest>-->
+                        <!--<addDefaultImplementationEntries>true</addDefaultImplementationEntries>-->
+                    <!--</manifest>-->
                     <archive>
                         <manifestEntries>
                             <Specification-Title>${project.name}</Specification-Title>
