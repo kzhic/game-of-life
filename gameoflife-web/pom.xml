@@ -6,8 +6,8 @@
         <groupId>com.wakaleo.gameoflife</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <groupId>com.wakaleo.gameoflife</groupId>
-    <artifactId>gameoflife-web</artifactId>
+    <!--<groupId>com.wakaleo.gameoflife</groupId>-->
+    <!--<artifactId>gameoflife-web</artifactId>-->
     <packaging>war</packaging>
     <name>gameoflife-web</name>
 
